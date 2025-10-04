@@ -1,6 +1,6 @@
 # PineCraft: Pine Script™ Strategy Builder
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/PineCraft-20251004-021428)
 
 PineCraft is a minimalist, single-page web application designed to streamline the process of modifying and testing TradingView Pine Script™ strategies. Users can paste their Pine Script™ code into a dedicated editor. The application intelligently parses the script to identify all `input()` variables (such as integers, floats, booleans, and strings). It then dynamically generates a clean, intuitive user interface with corresponding form controls—sliders for ranges, toggles for booleans, and text fields for strings. As the user adjusts these controls, the output script is updated in real-time, reflecting the new parameter values. This allows for rapid iteration and experimentation without manually editing the code. Once satisfied, the user can copy the modified script with a single click and paste it directly into the TradingView Pine Editor.
 
@@ -93,7 +93,7 @@ This project is configured for easy deployment to Cloudflare Pages.
 
 Alternatively, you can deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/PineCraft-20251004-021428)
 
 ## Contributing
 
